@@ -433,7 +433,7 @@ header {
 }
 
 .section_first {
-  background-image: url(image/bg_section1.png);
+  background-image: url(/image/bg_section1.png);
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: center;
