@@ -1,1 +1,1 @@
-https://Valery15052002.github.io/WorkDiplom/index.html
+https://valery15052002.github.io/workdiplom/index.html
